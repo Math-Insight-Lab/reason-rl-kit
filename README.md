@@ -1,4 +1,4 @@
-#reason-rl-kit
+# reason-rl-kit
 
 推理框架工具包（规划中，待开发），属于 Math‑Insight‑Lab 项目生态。
 
